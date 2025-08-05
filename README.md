@@ -11,6 +11,8 @@
 
 I am a detail-oriented and motivated data professional with strong foundations in **data analysis**, **machine learning**, and **data visualization**. With hands-on experience through internships, real-world projects, and certifications, I thrive at transforming data into actionable insights using tools like **Python**, **SQL**, **Power BI**, and **Excel**. I'm passionate about delivering impactful data solutions and contributing to meaningful innovations in dynamic environments.
 
+---
+
 ## 💼 Experience
 
 ### 🔹 Data Analyst Intern — Unified Mentor Pvt. Ltd. (Jul 2024 – Aug 2024)
@@ -27,6 +29,8 @@ I am a detail-oriented and motivated data professional with strong foundations i
 - Executed customer behavior analysis and built sales forecasting models.
 - Achieved 78% prediction accuracy using linear regression.
 
+--- 
+
 ## 🛠️ Skills
 
 **Programming**: Python, SQL  
@@ -35,6 +39,8 @@ I am a detail-oriented and motivated data professional with strong foundations i
 **Visualization & BI Tools**: Power BI, Excel  
 **Others**: GitHub, Jupyter, VS Code, PyCharm, Anaconda  
 **Core Skills**: EDA, Data Cleaning, Regression & Classification, OOP, DSA, Problem Solving, Team Collaboration
+
+---
 
 ## 📊 Projects
 
@@ -69,7 +75,6 @@ Saraswati Secondary School, Yamunanagar
 📅 2018 – 2019 | GPA:9.2
 
 --- 
-
 ## 🏆 Certifications
 
 - 💼 [BCG Data Science Job Simulation (Forage) – April 2025](https://drive.google.com/file/d/1df5xnIUaTE4ceIu-7DTdjLhaYUoqOuC0/view)  
@@ -91,5 +96,5 @@ Saraswati Secondary School, Yamunanagar
 
 ## 📌 Portfolio Links 
 
-- 📂 Resume: [Link to resume PDF or downloadable file]
-- 🌐 Projects Demo: [Link to Streamlit apps or project GitHub repositories]
+- 📂 Resume: [You can view my resume here](https://drive.google.com/file/d/1cR2cFDs6EAp6rTTW71YB9r9UJMxgJIQC/view?usp=sharing)
+- 🌐 Projects Demo: [StreamlitApp](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/)
