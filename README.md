@@ -1,9 +1,15 @@
-# 👩‍💻 Tanvi Kanaiya — Data Analyst & Aspiring Data Scientist
+<!-- Banner or Profile Image (optional, can be uploaded to repo and linked here) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="150" height="150" alt="Tanvi Kanaiya" />
+</p>
+
+# 👩‍💻 Tanvi Kanaiya — Data Analyst & Aspiring Data Scientist  
+> 📊 Data Analyst | 👩‍💻 Python & ML Enthusiast | 🎓 B.Tech CSE Graduate 2025
 
 📧 **Email**: [kanaiyatanvi@gmail.com](mailto:kanaiyatanvi@gmail.com)  
 📞 **Phone**: +91-9350377192  
-🔗 **LinkedIn**: [tanvi-kanaiya-a66b9a24a](https://www.linkedin.com/in/tanvi-kanaiya-a66b9a24a/)  
-💻 **GitHub**: [View my projects here](https://github.com/Tanvikanaiya)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square)](https://github.com/Tanvikanaiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tanvi-kanaiya-a66b9a24a/)
 
 ---
 
@@ -29,37 +35,50 @@ I am a detail-oriented and motivated data professional with strong foundations i
 - Executed customer behavior analysis and built sales forecasting models.
 - Achieved 78% prediction accuracy using linear regression.
 
---- 
+---
 
 ## 🛠️ Skills
 
-**Programming**: Python, SQL  
-**Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit, Tkinter  
-**Databases**: MongoDB  
-**Visualization & BI Tools**: Power BI, Excel  
-**Others**: GitHub, Jupyter, VS Code, PyCharm, Anaconda  
-**Core Skills**: EDA, Data Cleaning, Regression & Classification, OOP, DSA, Problem Solving, Team Collaboration
+**Programming:** Python, SQL, C++  
+**Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit, Tkinter  
+**Databases:** MongoDB  
+**Visualization & BI Tools:** Power BI, Excel  
+**Others:** GitHub, Jupyter, VS Code, PyCharm, Anaconda  
+**Core Skills:** EDA, Data Cleaning, Regression & Classification, OOP, DSA, Problem Solving, Team Collaboration
 
 ---
 
 ## 📊 Projects
 
 ### 📈 Big Mart Sales Prediction
-- Analyzed 8,000+ products to identify sales drivers.
-- Built ML models (Random Forest, XGBRF) with 90% R² accuracy.
-- Created a Tkinter GUI tool for user-friendly prediction.
+- 📌 Tools: Python, Pandas, Scikit-learn, Tkinter  
+- 🔍 Built a GUI-based predictive model with 90% R² accuracy using Random Forest & XGBRF.  
+- 🔗 [GitHub Repository](https://github.com/Tanvikanaiya/BigMart-Sales-Prediction)
 
 ### 🎬 Movie Recommender System
-- Implemented embedding-based model using Sentence Transformers.
-- Improved recommendation quality by 25%.
-- Deployed via Streamlit for a seamless UI.
+- 📌 Tools: Python, Sentence Transformers, Streamlit  
+- 🔍 Built an embedding-based recommendation engine and deployed via Streamlit.  
+- 🔗 [Live Demo](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/)  
+- 🔗 [GitHub Repository](https://github.com/Tanvikanaiya/Movie-Recommendation-System)
 
 ### 📉 Customer Churn Analysis (BCG Forage)
-- Developed Random Forest model to predict churn with 85% accuracy.
-- Used Pandas, NumPy, and visual tools for actionable insights.
-- Compiled executive report highlighting customer retention drivers.
+- 📌 Tools: Python, Pandas, NumPy  
+- 🔍 Built a random forest classifier with 85% accuracy to predict customer churn.  
+- 📊 Created executive-level dashboards to communicate retention strategy.  
+- 🔗 [BCG Simulation Certificate](https://drive.google.com/file/d/1df5xnIUaTE4ceIu-7DTdjLhaYUoqOuC0/view)
 
 ---
+
+## 📜 Certifications
+
+- 🎓 [BCG Data Science Job Simulation (Forage) – April 2025](https://drive.google.com/file/d/1df5xnIUaTE4ceIu-7DTdjLhaYUoqOuC0/view)
+- 🤖 [IBM AI-ML Internship Program – July 2024](https://drive.google.com/file/d/1kkBY7nibWpNHX1ShantHvi_7Ml1OAgnw/view)
+- 📊 [TNX Power BI Certification – July 2023](http://drive.google.com/file/d/1G4Kthv5OGr-sXPC6bMKShnHNLx4gMo4R/view)
+- 📈 [Unified Mentor Data Analyst Internship – 2024](https://drive.google.com/file/d/18qMoyz7RL8xVgyyaLtj8BHuqLVgPoGt4/view)
+- 🔍 [Acmegrade Data Science Internship – 2024](https://drive.google.com/file/d/1tbPkMtdSby_LTmpYkYOnzuGFFqNzeyoP/view)
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Technology (Computer Science & Engineering)**  
@@ -68,20 +87,11 @@ Bhagat Phool Singh Mahila Vishwavidyalaya, Sonipat, Haryana
 
 **Senior Secondary (Class 12th)** — PCM, HBSE  
 Govt. Girls Sr. Sec. School, Yamunanagar  
-📅 2020 – 2021 | GPA:8.4
+📅 2020 – 2021 | GPA: 8.4
 
 **Secondary (Class 10th)** — HBSE  
 Saraswati Secondary School, Yamunanagar  
-📅 2018 – 2019 | GPA:9.2
-
---- 
-## 🏆 Certifications
-
-- 💼 [BCG Data Science Job Simulation (Forage) – April 2025](https://drive.google.com/file/d/1df5xnIUaTE4ceIu-7DTdjLhaYUoqOuC0/view)  
-- 🤖 [IBM SkillBuild Internship Program with CSRBOX on AI-ML – July 2024](https://drive.google.com/file/d/1kkBY7nibWpNHX1ShantHvi_7Ml1OAgnw/view)  
-- 📊 [TNX Power BI Certification – July 2023](http://drive.google.com/file/d/1G4Kthv5OGr-sXPC6bMKShnHNLx4gMo4R/view)  
-- 📈 [Data Analyst Internship – Unified Mentor Pvt. Ltd. – 2024](https://drive.google.com/file/d/18qMoyz7RL8xVgyyaLtj8BHuqLVgPoGt4/view)  
-- 🔍 [Data Science Internship – Acmegrade – 2024](https://drive.google.com/file/d/1tbPkMtdSby_LTmpYkYOnzuGFFqNzeyoP/view)
+📅 2018 – 2019 | GPA: 9.2
 
 ---
 
@@ -94,7 +104,13 @@ Saraswati Secondary School, Yamunanagar
 
 ---
 
-## 📌 Portfolio Links 
+## 📂 Portfolio Links
 
-- 📂 Resume: [You can view my resume here](https://drive.google.com/file/d/1cR2cFDs6EAp6rTTW71YB9r9UJMxgJIQC/view?usp=sharing)
-- 🌐 Projects Demo: [StreamlitApp](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/)
+- 📄 [Resume](https://drive.google.com/file/d/1cR2cFDs6EAp6rTTW71YB9r9UJMxgJIQC/view?usp=sharing)  
+- 🌐 [Streamlit App (Movie Recommender)](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/)  
+
+---
+
+> _“Turning data into decisions and ideas into insights.”_
+
+*Last updated on August 05, 2025*
