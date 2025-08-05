@@ -3,7 +3,7 @@
 📧 **Email**: [kanaiyatanvi@gmail.com](mailto:kanaiyatanvi@gmail.com)  
 📞 **Phone**: +91-9350377192  
 🔗 **LinkedIn**: [tanvi-kanaiya-a66b9a24a](https://www.linkedin.com/in/tanvi-kanaiya-a66b9a24a/)  
-💻 **GitHub**: *Add your GitHub URL here*
+💻 **GitHub**: [View my projects here](https://github.com/Tanvikanaiya)
 
 ---
 
@@ -77,6 +77,7 @@ Saraswati Secondary School, Yamunanagar
 - 📊 [TNX Power BI Certification – July 2023](http://drive.google.com/file/d/1G4Kthv5OGr-sXPC6bMKShnHNLx4gMo4R/view)  
 - 📈 [Data Analyst Internship – Unified Mentor Pvt. Ltd. – 2024](https://drive.google.com/file/d/18qMoyz7RL8xVgyyaLtj8BHuqLVgPoGt4/view)  
 - 🔍 [Data Science Internship – Acmegrade – 2024](https://drive.google.com/file/d/1tbPkMtdSby_LTmpYkYOnzuGFFqNzeyoP/view)
+
 ---
 
 ## 🎖️ Achievements
