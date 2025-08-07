@@ -61,7 +61,7 @@
 > Netflix-style recommender system using sentence embeddings  
 📌 **Tools:** Python, Streamlit, Sentence Transformers  
 ✅ Increased recommendation relevance by 25%  
-🔗 [Live Demo](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/) | [GitHub](https://github.com/Tanvikanaiya/Movie-Recommendation-System)
+🔗 [Live Demo](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/) | [GitHub](https://github.com/Tanvikanaiya/Movie_reccomendation_app)
 
 ### 📉 Customer Churn Analysis (BCG Forage)  
 > Built a Random Forest model to identify at-risk customers and recommend retention strategies  
