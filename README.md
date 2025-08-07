@@ -1,6 +1,6 @@
-<!-- Custom Banner () -->
+<!-- Custom Banner -->
 <p align="center">
-  <img src="images/banner.png" alt="Tanvi Kanaiya Portfolio Banner" width="100%" />
+  <img src="images/ChatGPT Image Aug 7, 2025, 08_51_25 PM.png" alt="Tanvi Kanaiya Banner" width="100%" />
 </p>
 
 # 👩‍💻 Tanvi Kanaiya — Data Analyst & Aspiring Data Scientist  
@@ -9,16 +9,6 @@
 📧 **kanaiyatanvi@gmail.com** | 📞 +91-9350377192  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square)](https://github.com/Tanvikanaiya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tanvi-kanaiya-a66b9a24a/)
-
----
-
-## ✨ Why Hire Me?
-
-- 🧠 Strong foundation in data science and analytics
-- 💼 3 internships with hands-on industry experience
-- 🛠️ Proficient in Python, SQL, Power BI, ML, and dashboarding
-- 🚀 Built real-world tools like a GUI-based sales predictor and recommender system
-- 📈 Enthusiastic learner and active contributor to team environments
 
 ---
 
@@ -53,17 +43,23 @@
 
 ## 📊 Projects
 
-### 📈 Big Mart Sales Prediction  
-![Big Mart](images/bigmart.png)  
-> 🧪 Predictive analytics tool to estimate item sales using regression  
-📌 Tools: Python, Tkinter, RandomForest  
-✅ 90% R² score, GUI-based interface  
-🔗 [GitHub](https://github.com/Tanvikanaiya/BigMart-Sales-Prediction)
+### 📈 Big Mart Sales Prediction using ML  
+<p float="left">
+  <img src="images/Screenshot 2025-08-07 210252.png" width="45%"/>
+  <img src="images/Screenshot 2025-08-07 210331.png" width="45%"/>
+</p>
+
+> 🧠 Developed a machine learning-based tool to predict item sales using historical data.  
+📌 **Tools Used:** Python, Pandas, Scikit-learn, Tkinter  
+📊 **Models Used:** Random Forest, XGBRF Regressor  
+✅ Achieved **90% R² accuracy** and built a **Tkinter-based GUI** for real-time sales prediction.  
+🔗 [GitHub Repository](https://github.com/Tanvikanaiya/BigMart-Sales-Prediction)
 
 ### 🎬 Movie Recommender System  
-![Movie App](images/movie-demo.gif)  
+<img src="images/movie-app.gif" width="60%" />  
+
 > Netflix-style recommender system using sentence embeddings  
-📌 Tools: Python, Streamlit, Sentence Transformers  
+📌 **Tools:** Python, Streamlit, Sentence Transformers  
 ✅ Increased recommendation relevance by 25%  
 🔗 [Live Demo](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/) | [GitHub](https://github.com/Tanvikanaiya/Movie-Recommendation-System)
 
@@ -109,13 +105,10 @@ Saraswati Secondary School, Yamunanagar | GPA: 9.2
 
 ---
 
-## 📂 Resume & Live Apps
+## 👤 Profile Photo
 
-- 📄 [Resume](https://drive.google.com/file/d/1cR2cFDs6EAp6rTTW71YB9r9UJMxgJIQC/view?usp=sharing)  
-- 🌐 [Streamlit App – Movie Recommender](https://moviereccomendationapp-3qp4wlswo68qjkacdhjhcf.streamlit.app/)  
+<img src="images/photo_2025-08-05_16-01-05.jpg" width="140px" />
 
 ---
 
 > _“Turning data into decisions and ideas into insights.”_
-
-*Last updated on August 07, 2025*
