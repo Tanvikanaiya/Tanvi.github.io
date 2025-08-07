@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="images/ChatGPT Image Aug 7, 2025, 08_51_25 PM.png" alt="Tanvi Kanaiya Banner" width="100%" />
+  <img src="images/banner.png" alt="Tanvi Kanaiya Banner" width="100%" />
 </p>
 
 # 👩‍💻 Tanvi Kanaiya — Data Analyst & Aspiring Data Scientist  
