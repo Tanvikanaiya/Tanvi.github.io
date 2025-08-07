@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="images/banner.png" alt="Tanvi Kanaiya Banner" width="100%" />
+  <img src="banner.png" alt="Tanvi Kanaiya Banner" width="100%" />
 </p>
 
 # 👩‍💻 Tanvi Kanaiya — Data Analyst & Aspiring Data Scientist  
@@ -45,8 +45,8 @@
 
 ### 📈 Big Mart Sales Prediction using ML  
 <p float="left">
-  <img src="images/Screenshot 2025-08-07 210252.png" width="45%"/>
-  <img src="images/Screenshot 2025-08-07 210331.png" width="45%"/>
+  <img src="bigmart.png" width="45%"/>
+  <img src="bigmart2.png" width="45%"/>
 </p>
 
 > 🧠 Developed a machine learning-based tool to predict item sales using historical data.  
@@ -56,7 +56,7 @@
 🔗 [GitHub Repository](https://github.com/Tanvikanaiya/BigMart-Sales-Prediction)
 
 ### 🎬 Movie Recommender System  
-<img src="images/movie-app.gif" width="60%" />  
+<img src="movie-app.gif" width="60%" />  
 
 > Netflix-style recommender system using sentence embeddings  
 📌 **Tools:** Python, Streamlit, Sentence Transformers  
@@ -107,7 +107,7 @@ Saraswati Secondary School, Yamunanagar | GPA: 9.2
 
 ## 👤 Profile Photo
 
-<img src="images/photo_2025-08-05_16-01-05.jpg" width="140px" />
+<img src="myprofile.jpg" width="140px" />
 
 ---
 
