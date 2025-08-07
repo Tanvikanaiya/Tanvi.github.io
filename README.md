@@ -53,7 +53,7 @@
 📌 **Tools Used:** Python, Pandas, Scikit-learn, Tkinter  
 📊 **Models Used:** Random Forest, XGBRF Regressor  
 ✅ Achieved **90% R² accuracy** and built a **Tkinter-based GUI** for real-time sales prediction.  
-🔗 [GitHub Repository](https://github.com/Tanvikanaiya/BigMart-Sales-Prediction)
+🔗 [GitHub Repository](https://github.com/Tanvikanaiya/big_mart_sales_prediction)
 
 ### 🎬 Movie Recommender System  
 <img src="movie-app.gif" width="60%" />  
